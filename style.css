@@ -111,7 +111,7 @@ hr {
 
 #aboutcol1,
 #aboutcol2 {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 #heading {
     filter: drop-shadow(1px 1px 5px var(--background));
@@ -138,7 +138,7 @@ hr {
 
 #skillcol1,
 #skillcol2 {
-    margin-left: 10px;
+    margin-left: 20px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
@@ -234,7 +234,7 @@ form {
 
 #contactcol1,
 #contactcol2 {
-    margin-left: 10px;
+    margin-left: 20px;
 }
 
 .btn {
