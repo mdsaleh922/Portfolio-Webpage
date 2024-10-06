@@ -225,7 +225,6 @@ form {
 .card-body a:hover {
     background-color: var(--text);
     color: black;
-    transform: translateY(10px);
 }
 
 #contact-section {
